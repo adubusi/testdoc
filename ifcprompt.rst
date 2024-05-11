@@ -130,7 +130,7 @@
 
 .. code:: ipython3
 
-    # get the BuildingStorey Value on each of my spaces.
+    # get the BuildingStorey Value on each of spaces.
     import ifcopenshell
     import ifcopenshell.util.selector
     model = ifcopenshell.open("model.ifc")
