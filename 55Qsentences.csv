@@ -1,0 +1,42 @@
+﻿sentences,num_1,num_2,num_3,num_4,num_5,vectorized_1,vectorized_2,vectorized_3,vectorized_4,vectorized_5,model,time,token,cost,interation,result
+How many walls are in Snowdon Towers Sample Architectural.ifc?,1,0,0,0,0,0.45406112,2.256241,2.5009675,-2.443332,-0.7246137,3.5 Turbo,5.95,2862,0.001501,1,1
+How many storeys in Snowdon Towers Sample Architectural.ifc?,1,0,0,0,0,0.34626454,1.8045166,1.9909866,-1.9280146,-0.6544992,4 Turbo,9.18,2880,0.03054,1,1
+What are the name and function of all space in Snowdon Towers Sample Architectural.ifc?,0,1,0,0,0,0.59137356,2.8407288,3.215767,-3.1665487,-0.92007077,4o,7.05,2910,0.01571,1,1
+What are the name and the area of all space in Snowdon Towers Sample Architectural.ifc?,0,1,0,0,0,0.58456594,2.8656147,3.2519605,-3.2107687,-0.9718819,4o,7.75,2914,0.01576,1,1
+Which space has the largest area in Snowdon Towers Sample Architectural.ifc?,0,1,1,1,0,0.49959955,2.4209223,2.744024,-2.7897933,-0.87805444,4o,8.94,3008,0.01721,1,1
+Which space has the largest area in Snowdon Towers Sample Architectural.ifc?,0,1,1,1,0,0.49959955,2.4209223,2.744024,-2.7897933,-0.87805444,4 Turbo,41.53,4837,0.06987,4,0
+Which space has the largest area and on which storey is it located in Snowdon Towers Sample Architectural.ifc?,0,1,1,1,1,0.55596536,2.6506884,3.0264876,-3.0404427,-0.9052648,No,1.53,792,0.00046,0,0
+Which space has the largest area and on which storey is it located in Snowdon Towers Sample Architectural.ifc?,0,1,1,1,1,0.55596536,2.6506884,3.0264876,-3.0404427,-0.9052648,4o,53.6,16126,0.10439,4,0
+Which space has the largest area and on which storey is it located in Snowdon Towers Sample Architectural.ifc?,0,1,1,1,1,0.55596536,2.6506884,3.0264876,-3.0404427,-0.9052648,4 Turbo,79.18,10373,0.14337,4,0
+How many spaces are stairs in Snowdon Towers Sample Architectural.ifc?,1,1,0,0,0,0.45406112,2.256241,2.5009675,-2.443332,-0.7246137,4o,9.32,2936,0.01614,1,0
+How many spaces are stairs in Snowdon Towers Sample Architectural.ifc?,1,1,0,0,0,0.45406112,2.256241,2.5009675,-2.443332,-0.7246137,3.5 Turbo,43.14,12127,0.0074225,4,0
+Which storey is the bathroom located in Snowdon Towers Sample Architectural.ifc?,1,0,0,0,0,0.45889285,2.4569957,2.8335326,-2.8048694,-0.9136991,4o,41.12,23680,0.12715,4,0
+Which storey is the living room located in Snowdon Towers Sample Architectural.ifc?,1,0,0,0,0,0.35015815,1.9528571,2.229016,-2.1846974,-0.7448942,3.5 Turbo,8.74,2951,0.0016305,1,0
+Which storey has the largest number of spaces in Snowdon Towers Sample Architectural.ifc?,1,0,1,1,0,0.5346355,2.6268952,2.9612029,-2.9699109,-0.9457337,4o,9.89,3122,0.01889,1,1
+How many doors are in Snowdon Towers Sample Architectural.ifc?,1,0,0,0,0,0.4115636,1.8767627,2.0684536,-2.0340908,-0.6031751,4o,8.31,2894,0.01552,1,1
+How many doors are in Snowdon Towers Sample Architectural.ifc?,1,0,0,0,0,0.4115636,1.8767627,2.0684536,-2.0340908,-0.6031751,3.5 Turbo,7.31,967,0.0005775,1,1
+How many windows are in Snowdon Towers Sample Architectural.ifc?,1,0,0,0,0,0.36065456,1.9033113,2.1252346,-2.0258405,-0.6231467,4o,7.34,2897,0.015565,1,1
+How many spaces are kitchens in Snowdon Towers Sample Architectural.ifc?,1,1,0,0,0,0.45406112,2.256241,2.5009675,-2.443332,-0.7246137,4 Turbo,9.95,1005,0.01267,1,1
+What is the total area of all spaces in Snowdon Towers Sample Architectural.ifc?,0,1,1,0,0,0.52748215,2.6930106,3.089944,-3.0293856,-0.9559214,3.5 Turbo,19.09,3775,0.0024285,2,0
+What is the total area of all spaces in Snowdon Towers Sample Architectural.ifc?,0,1,1,0,0,0.52748215,2.6930106,3.089944,-3.0293856,-0.9559214,4o,8.83,2968,0.01659,1,1
+Which space has the smallest area in Snowdon Towers Sample Architectural.ifc?,0,1,1,1,0,0.55196697,2.755502,3.0786498,-3.1507385,-0.9808455,4o,9.7,3020,0.01739,1,1
+Which space has the smallest area in Snowdon Towers Sample Architectural.ifc?,0,1,1,1,0,0.55196697,2.755502,3.0786498,-3.1507385,-0.9808455,4 Turbo,11.33,3002,0.03418,1,0
+Which space has the largest volume in Snowdon Towers Sample Architectural.ifc?,0,1,1,1,0,0.52588403,2.577191,2.8973176,-2.9227245,-0.92705584,No,1.42,794,0.00047,0,0
+Which space has the largest volume in Snowdon Towers Sample Architectural.ifc?,0,1,1,1,0,0.52588403,2.577191,2.8973176,-2.9227245,-0.92705584,4o,65.53,14492,0.09229,4,0
+Which space has the smallest volume in Snowdon Towers Sample Architectural.ifc?,0,1,1,1,0,0.59136015,2.9935791,3.3132632,-3.3659828,-1.0551455,4 Turbo,82.26,27720,0.31548,4,0
+How many spaces are live room in Snowdon Towers Sample Architectural.ifc?,1,1,0,0,1,0.2913311,1.6523641,1.8298086,-1.7560273,-0.52903754,4o,53.61,6561,0.044535,4,0
+How many spaces are cafe in Snowdon Towers Sample Architectural.ifc?,1,1,0,0,1,0.45406112,2.256241,2.5009675,-2.443332,-0.7246137,3.5 Turbo,3.45,2902,0.00156,1,0
+Which storey has the least number of spaces in Snowdon Towers Sample Architectural.ifc?,1,0,1,1,0,0.54854274,2.694564,2.969545,-3.0236769,-0.92218316,3.5 Turbo,58.07,12119,0.0073945,4,0
+How many spaces are on the second storey of Snowdon Towers Sample Architectural.ifc?,1,0,0,0,0,0.4765719,2.476333,2.7048762,-2.6768992,-0.82208353,4 Turbo,11.75,2907,0.03127,1,0
+What is the function of the smallest space in Snowdon Towers Sample Architectural.ifc,0,1,1,1,0,0.6016057,3.1707566,3.6202097,-3.5254433,-1.2009206,4o,29.14,9752,0.05548,2,0
+What is the function of the largest space in Snowdon Towers Sample Architectural.ifc?,0,1,1,1,0,0.5495415,2.8272128,3.2625914,-3.1629689,-1.085098,3.5 Turbo,47.04,6910,0.004191,4,0
+Which storey has the smallest total area in Snowdon Towers Sample Architectural.ifc?,1,0,1,1,0,0.4435342,2.3952932,2.6767128,-2.7034347,-0.8591133,4 Turbo,42.25,10075,0.11679,3,0
+How many spaces have an area less than 20 square meters in Snowdon Towers Sample Architectural.ifc?,0,1,1,1,0,0.4319931,1.9510132,2.2016141,-2.1637485,-0.60080636,No,1.42,794,0.00047,0,0
+How many spaces have an area less than 20 square meters in Snowdon Towers Sample Architectural.ifc?,0,1,1,1,0,0.4319931,1.9510132,2.2016141,-2.1637485,-0.60080636,4o,12.5,1234,0.00961,1,0
+How many spaces have an area greater than 50 square meters in Snowdon Towers Sample Architectural.ifc?,0,1,1,1,0,0.43408346,1.9412882,2.183816,-2.1426322,-0.6048556,4 Turbo,18.33,2996,0.03388,1,0
+Which storey has the most windows in Snowdon Towers Sample Architectural.ifc?,1,0,1,1,0,0.42179596,2.332047,2.639373,-2.603468,-0.83878475,4 Turbo,21.98,2997,0.03401,1,1
+What is the average area of all spaces in Snowdon Towers Sample Architectural.ifc?,0,1,1,1,0,0.51657516,2.6607869,3.089157,-3.026295,-0.929675,3.5 Turbo,21.98,9544,0.00541,4,0
+How many storeys have more than 5 spaces in Snowdon Towers Sample Architectural.ifc?,0,0,1,1,1,0.4740267,2.3322356,2.610527,-2.5631163,-0.7016951,3.5 Turbo,20.31,3531,0.0021585,2,0
+Which space has the most windows in Snowdon Towers Sample Architectural.ifc?,0,1,1,1,1,0.46986896,2.4021814,2.711741,-2.6802704,-0.87228936,4o,36.02,10585,0.063615,3,0
+How many spaces have a ceiling height less than 2.5 meters in Snowdon Towers Sample Architectural.ifc?,0,1,1,1,0,0.3183925,1.5857085,1.7699084,-1.7345595,-0.46296236,4o,10.35,3039,0.017595,1,0
+How many spaces have a ceiling height less than 2.5 meters in Snowdon Towers Sample Architectural.ifc?,0,1,1,1,0,0.3183925,1.5857085,1.7699084,-1.7345595,-0.46296236,No,1.42,794,0.00047,0,0
